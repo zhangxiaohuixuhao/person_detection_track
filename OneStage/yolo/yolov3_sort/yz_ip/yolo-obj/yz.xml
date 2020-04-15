@@ -1,0 +1,17 @@
+<Cameras>
+	<Camera>
+		<id>0</id>  
+		<ip>127.0.0.1</ip>
+		<rtsp> https://127.0.0.1:/rtsp/01</rtsp>
+		<line>x1,y1,x2,y2</line>  							
+		<direction>90</direction>  
+		<type>cam_in</type>
+	</Camera>
+	<Interval>
+		<T>10</T>
+	</Interval>
+	<Backbone>
+		<ip>127.0.0.1</ip>
+	</Backbone>
+</Cameras>
+

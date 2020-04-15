@@ -1,0 +1,5 @@
+classes= 1
+train  = /DATA/zhanghui/darknet/data_yz/train.txt
+valid = /DATA/zhanghui/darknet/data_yz/train.txt
+names = /DATA/zhanghui/darknet/data/yz.names
+backup = /DATA/zhanghui/darknet/model_1212/
